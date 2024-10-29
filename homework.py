@@ -52,12 +52,13 @@
 #     bill += 3
 # print(f"Your bill is {bill} ")
 
-my_list = [1,2,3,4,5,6,7,8]
+# my_list = [1,2,3,4,5,6,7,8]
 
-for i in my_list:
-    print(i)
+# for i in my_list:
+#     print(i)
     
-count = 0
-while count < 4:
-    print("anasnu")
-    count += 1
+# count = 0
+# while count < 4:
+#     print("anasnu")
+#     count += 1
+
